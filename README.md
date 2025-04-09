@@ -2,4 +2,4 @@
 
 # this is my personal profile
 
-![old-man-linda](https://github.com/user-attachments/assets/d90360a4-8460-476f-b882-ab253debb581)
+![delete-computer](https://github.com/user-attachments/assets/a8e6badb-25c8-421f-9694-5ecf8b1f2611)
