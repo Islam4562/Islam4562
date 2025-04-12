@@ -4,4 +4,4 @@
 
 ![penguin-yoshi](https://github.com/user-attachments/assets/1e6e7d9b-1043-4672-9afc-f544561c6b15)
 
-![Snake animation](https://raw.githubusercontent.com/Islam4562/https://platane.github.io/snk/)
+![snake gif](https://github.com/Islam4562/blob/output/github-snake-dark.svg?palette=github-dark)
