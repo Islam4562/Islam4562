@@ -2,4 +2,4 @@
 
 # this is my personal profile
 
-![penguin-yoshi](https://github.com/user-attachments/assets/1e6e7d9b-1043-4672-9afc-f544561c6b15)
+![shark-swimming](https://github.com/user-attachments/assets/a7bbf763-5987-406e-9535-d50ed0dbda9d)
