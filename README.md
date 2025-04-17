@@ -2,5 +2,4 @@
 
 # this is my personal profile
 
-![spiderman](https://github.com/user-attachments/assets/17297c85-557a-4308-ba61-c2af7c353051)![qr-code-brick-game](https://github.com/user-attachments/assets/ac5291cd-f30a-41e5-a9cd-6815180bd104)
-
+![spiderman](https://github.com/user-attachments/assets/3dc427c8-2daf-4d97-8718-8c1058df3cb3)
