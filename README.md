@@ -2,4 +2,4 @@
 
 # this is my personal profile
 
-![shark-swimming](https://github.com/user-attachments/assets/a7bbf763-5987-406e-9535-d50ed0dbda9d)
+![qr-code-brick-game](https://github.com/user-attachments/assets/ac5291cd-f30a-41e5-a9cd-6815180bd104)
